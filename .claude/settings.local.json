@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/edwar/Documents/sidegig/.antigravity/**)",
+      "Read(//c/Users/edwar/Documents/sidegig/doc/**)",
+      "Bash(cp -r \"C:\\\\Users\\\\edwar\\\\Documents\\\\sidegig/.antigravity/.\" \"C:\\\\Users\\\\edwar\\\\obsidian-vault\\\\_inbox\\\\sidegig\\\\antigravity\")",
+      "Bash(cp -r \"C:\\\\Users\\\\edwar\\\\Documents\\\\sidegig/doc/.\" \"C:\\\\Users\\\\edwar\\\\obsidian-vault\\\\_inbox\\\\sidegig\\\\doc\")",
+      "Bash(cp /c/Users/edwar/obsidian-vault/_inbox/sidegig/antigravity/styles/*.md /c/Users/edwar/obsidian-vault/projects/sidegig/design-system/)",
+      "Bash(cp /c/Users/edwar/obsidian-vault/_inbox/sidegig/antigravity/Design-Patterns/*.md /c/Users/edwar/obsidian-vault/projects/sidegig/design-system/)",
+      "Bash(cp /c/Users/edwar/obsidian-vault/_inbox/sidegig/antigravity/Skills/*.md /c/Users/edwar/obsidian-vault/projects/sidegig/design-system/)",
+      "Bash(cp /c/Users/edwar/obsidian-vault/_inbox/sidegig/antigravity/planning/*.md /c/Users/edwar/obsidian-vault/projects/sidegig/planning/)",
+      "Bash(cp /c/Users/edwar/obsidian-vault/_inbox/sidegig/doc/plans/*.md /c/Users/edwar/obsidian-vault/projects/sidegig/planning/)",
+      "Bash(cp /c/Users/edwar/obsidian-vault/_inbox/sidegig/doc/flows/*.md /c/Users/edwar/obsidian-vault/projects/sidegig/planning/)",
+      "Bash(cp /c/Users/edwar/obsidian-vault/_inbox/sidegig/doc/Manuals/*.md /c/Users/edwar/obsidian-vault/projects/sidegig/planning/)",
+      "Bash(python3:*)"
+    ]
+  }
+}
